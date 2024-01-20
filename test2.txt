@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D29C-2FD8
+
+ Directory of C:\GitHubProjects\MyProject
+
+20/01/2024  20:08    <DIR>          .
+20/01/2024  19:08    <DIR>          ..
+20/01/2024  19:41                22 index.html
+20/01/2024  19:40                 8 test1.txt
+20/01/2024  20:08                 0 test2.txt
+               3 File(s)             30 bytes
+               2 Dir(s)  1,941,031,518,208 bytes free
